@@ -1,0 +1,33 @@
+.Top{
+    background-color: lightgreen;
+    display: block;
+    height: 200px;
+    width:200px;
+    padding: 20px;
+    border: solid 10px;
+    /* margin-bottom: 50px;
+    margin-left: 50px; */
+}
+.Middle{
+    background-color: yellow;
+    display: block;
+    height: 200px;
+    width:200px;
+    padding: 20px;
+    border: solid 20px;
+    /* margin-bottom: 230px; */
+    margin-left: 260px;
+}
+.Down{
+    background-color: red;
+    display: block;
+    height: 200px;
+    width:200px;
+    padding: 20px;
+    border: solid 10px;
+    /* margin-bottom: 450px; */
+    margin-left: 540px;
+}
+/* .div{
+    border-color: black;
+} */
